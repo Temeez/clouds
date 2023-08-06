@@ -1,13 +1,16 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Photo Gallery",
+  "title": "Clouds",
   "sort-albums-by": "title",
+  "sort-albums-direction": "desc",
   "sort-media-by": "filename",
-  "download-photos": "copy",
+  "sort-media-direction": "desc",
+  "photo-download": "copy",
+  "embed-exif": true,
+  "include-raw-photos": false,
   "cleanup": true,
   "theme": "cards",
-  "css": "./custom.css",
-  "footer": "Copyright Text",
-  "usage-stats": false
+  "theme-style": "./custom.css",
+  "footer": ""
 }

@@ -1,1 +1,6 @@
 /* Your custom styles goes here */
+
+.lg-outer .lg-thumb-outer,
+.lg-outer .lg-toogle-thumb {
+  background-color: rgba(0, 0, 0, 0.45);
+}
